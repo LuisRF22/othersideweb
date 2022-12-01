@@ -1,0 +1,43 @@
+
+.formulario{
+    width: 60%;
+    margin-left: auto ;
+    margin-right: auto;
+    padding: 4rem;
+    margin: 2rem;
+    border-radius: 80px;
+    background-color: #868f8862;
+}
+
+.Nombre{
+    width: 20%;
+        
+        margin-bottom: 1rem;
+        width: 50%;
+       
+
+}
+.Aellido{
+    width: 10%;
+    margin-bottom: 1rem;
+    width: 50%;
+    
+
+
+}
+
+.Email{
+    width: 10%;
+    margin-bottom: 0rem;
+    width: 100%;
+   
+    }
+
+.Boton {
+color: rgb(17, 118, 158);
+background-color: rgb(226, 164, 164);
+margin: top 10px;
+font-size: medium;
+
+}   
+
